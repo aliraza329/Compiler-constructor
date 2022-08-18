@@ -1,0 +1,6 @@
+float : <Keyword, 1>
+int : <Keyword, 2>
+a_ : <Identifier, 3>
+:= :<Operator, 4>
+3.43433E+13 : <Number, 5>
+} :<Punction, 6>
